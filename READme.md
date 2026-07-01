@@ -136,32 +136,6 @@ Based on the analysis:
 
 ---
 
-# 📸 Dashboard Preview
-
-## Customer Overview
-
-![Dashboard](images/dashboard_overview.png)
-
----
-
-## Risk Analytics
-
-![Risk Dashboard](images/risk_dashboard.png)
-
----
-
-## Customer Segmentation
-
-![Segmentation](images/customer_segmentation.png)
-
----
-
-## Profitability Analysis
-
-![Profitability](images/profitability.png)
-
----
-
 # 📂 Project Structure
 
 ```
@@ -261,7 +235,7 @@ streamlit run app.py
 
 Aspiring Data Scientist | Machine Learning | Data Analytics
 
-📧 Email: your-email@example.com
+📧 Email: nithinjyreddy@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/nithin-jy-823644345
 
